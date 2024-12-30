@@ -1,16 +1,12 @@
 # arman_gpt
 
-A new Flutter project.
+A simple GPT chat emulator app for text-to-text communication with chatbot models.
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="screenshots/Screenshot_1.png" alt="Screenshot_1" width="23%" />
+  <img src="screenshots/Screenshot_2.png" alt="Screenshot_2" width="23%" />
+  <img src="screenshots/Screenshot_3.png" alt="Screenshot_3" width="23%" />
+  <img src="screenshots/Screenshot_4.png" alt="Screenshot_4" width="23%" />
+</div>
